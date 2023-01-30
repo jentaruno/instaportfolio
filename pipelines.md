@@ -19,6 +19,15 @@
 ### Generate Portfolio
 - For each selected photo:
 	- Take photo
-	- Place photo in template
-- Convert to PDF/Docx
+	- Place photo in template (HTML? PIL?)
+
 - Allow user to download
+### Add User Details
+(Editable paragraphs)
+- Full Name
+- Address
+- Contact (optional)
+	- Phone
+	- Email
+	- Website
+	- Linkedin
